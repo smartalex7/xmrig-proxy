@@ -4,7 +4,7 @@
     "access-log-file": null,
     "retries": 5,
     "retry-pause": 5,
-    "donate-level": 2,
+    "donate-level": 0,
     "coin": "xmr",
     "custom-diff": 0,
     "syslog": false,
